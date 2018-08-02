@@ -8,3 +8,11 @@ for(var i=0; i< myNumberList.length; i++){
     }
 }
 console.log(biggestNum);
+
+/*
+
+	KEY: EXCELLENT JOB!
+
+	Add comments next time :-P
+
+*/
